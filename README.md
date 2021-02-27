@@ -5,6 +5,17 @@ Let's become artist using deep learning with PyTorch.
 
 
 
+# Notebook Includes
+
+* Separating Style and Content
+* Load in VGG19
+* Load in Content and Style Images
+* VGG19 train model
+* Gram Matrix
+* Putting it all Together
+* Loss and Weights
+* Updatng the Target and Calculating Losses
+* Display the Target Image
 
 Medium Article Link: https://medium.com/mlearning-ai/lets-be-artist-using-deep-learning-%EF%B8%8F-383ddbd4791f
 
